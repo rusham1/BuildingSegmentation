@@ -127,7 +127,7 @@ The repository contains results from three segmentation architectures:
 
 ### U-Net + ResNet50
 
-A U-Net architecture with a ResNet50 encoder, used as a convolutional neural-network baseline.
+A U-Net architecture with a ResNet34 and ResNet50 encoder, used as a convolutional neural-network baseline.
 
 ### SegFormer-B2
 
